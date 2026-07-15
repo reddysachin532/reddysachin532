@@ -3,7 +3,7 @@
 
 ### Hi there 👋 I'm Sachin Reddy
 <p align="left">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;Aspiring+Software+Engineer;Blockchain+%26+Cybersecurity+Enthusiast;IoT+%26+Computer+Vision+Explorer&center=true&width=600&height=45">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;Aspiring+Software+Engineer;Blockchain+%26+Cybersecurity+Student;IoT+%26+Computer+Vision+Explorer&center=true&width=600&height=45">
 	
 </p>
   👋 I'm Sachin Reddy
