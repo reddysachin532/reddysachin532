@@ -116,7 +116,7 @@ AI-powered platform for detecting money mule networks with blockchain-based audi
 - Cyber Security Audits – Infosys Springboard
 - Computer Networks & Security – IBM
 - Agile Project Management – Coursera
-
+- Ethical Hacking Essentials – EC-Council
 <hr>
 
 <h3 align="center">
