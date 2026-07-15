@@ -79,28 +79,23 @@
 
 ### 🖱️ Gesture Controlled Virtual Mouse
 
-- Developed a real-time virtual mouse using hand gestures.
-- Enabled cursor movement, clicking and scrolling.
-- Built using Python, OpenCV, MediaPipe and PyAutoGUI.
+Real-time hand gesture-based virtual mouse for cursor control, clicking, and scrolling.
+**Tech:** Python, OpenCV, MediaPipe, PyAutoGUI
 
- ### ⌨️ Gesture Controlled Virtual Keyboard
+### ⌨️ Gesture Controlled Virtual Keyboard
 
-* Developed a virtual keyboard using real-time hand gesture recognition.
-* Enables touchless typing using finger gestures.
-* **Technologies:** Python, OpenCV, MediaPipe, NumPy, Pynput.
+Touchless virtual keyboard that enables typing using finger gestures and hand tracking.
+**Tech:** Python, OpenCV, MediaPipe, NumPy
 
 ### 📊 BMI Calculator
 
-- Developed a BMI calculator using height and weight inputs.
-- Categorizes users into different health categories.
-- Built using Python and web technologies.
+Simple application to calculate BMI and classify users based on BMI categories.
+**Tech:** Python, Web Technologies
 
 ### 🛡️ Mule Hunter – Financial Fraud Detection
 
-* Developed an AI-powered platform to detect money mule networks and financial fraud.
-* Used GNN and Extended Isolation Forest for fraud detection.
-* Integrated blockchain-based auditing and real-time risk monitoring.
-* **Technologies:** Python, PyTorch, Spring Boot, Next.js, MongoDB, Docker, AWS.
+AI-powered platform for detecting money mule networks with blockchain-based auditing.
+**Tech:** Python, PyTorch, Spring Boot, Next.js, MongoDB
 
 <hr>
 
